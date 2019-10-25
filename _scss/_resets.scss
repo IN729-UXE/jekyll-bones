@@ -1,1 +1,10 @@
 /* Style resets for just getting on with it */
+html {
+    color: #222;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+}
+
+*, ::before, ::after { box-sizing: border-box; } /* Switch to border-box for box-sizing. */
