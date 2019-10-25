@@ -1,9 +1,7 @@
 ---
 ---
-/* Use SCSS to make styles */
+@import "resets";
+@import "colors";
+@import "typography";
 
-//Brand colours:
-$primary-color: black;
-$secondary-color: white;
-$highlight-color: blue;
-$warning-color: red;
+/* Use SCSS to make styles */
